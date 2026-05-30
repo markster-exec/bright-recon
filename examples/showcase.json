@@ -1,0 +1,441 @@
+{
+  "salesforce.com": {
+    "company": "Salesforce",
+    "one_liner": "Salesforce is in an AI-led operating-model shift: hiring is constrained overall but sales roles remain a visible exception, while Agentforce, pricing scrutiny, and Salesforce Ventures' AI investments create timely entry points.",
+    "the_read": "Salesforce has 25 live postings with expansion concentrated in Business Development/Sales and Engineering/IT, and recent news quotes CEO Marc Benioff saying almost no one is being hired except in sales. At the same time, Salesforce is positioning Agentforce around humans working with agents and is in market conversations about 2026 pricing/implementation costs, suggesting urgency around AI-driven growth, productivity, and customer adoption economics.",
+    "terrain": "Salesforce is a large CRM/customer-success platform company positioning around Agentforce, described on its pricing page as 'Humans with Agents drive customer success together.' Current external signals show sales hiring, engineering/IT hiring, active Salesforce Ventures investments in AI-performance-related companies, and market attention on Salesforce pricing and implementation costs.",
+    "routes": [
+      "Sales productivity and capacity angle: engage around the visible exception in hiring\u2014Business Development and Sales expansion\u2014tying the conversation to onboarding speed, pipeline efficiency, and seller productivity.",
+      "AI operating-model angle: connect to Agentforce and the CEO's AI-workforce narrative; position around making human-plus-agent workflows measurable, governable, or easier to operationalize if relevant.",
+      "Customer adoption/pricing pressure angle: use the volume of 2026 pricing and implementation-cost search results as a prompt to discuss how Salesforce can reduce friction, defend value, or improve customer time-to-value.",
+      "AI ecosystem angle: reference Salesforce Ventures' recent AI-related investments, including Optura's AI performance tracking round, to explore whether venture, product, or partnership teams are prioritizing AI performance, trust, or measurement themes."
+    ],
+    "who_decides": [
+      "Marc Benioff, CEO - cited in recent news shaping the AI hiring and strategy narrative",
+      "Business Development and Sales leadership - department with 6 live postings; likely stakeholders for sales productivity or GTM capacity conversations",
+      "Engineering and Information Technology leadership - department with 6 live postings; likely stakeholders for AI, platform, data, integration, or tooling decisions",
+      "Consulting / IT / Sales and Project Management / IT leaders - smaller hiring signals indicate potential implementation and operations stakeholders",
+      "unknown - verify the specific economic buyer and budget owner for the proposed use case"
+    ],
+    "evidence_gaps": [
+      "Exact job titles, seniority, locations, and teams behind the 25 live postings are not provided.",
+      "No direct evidence of Salesforce's current vendor stack, active evaluations, budgets, or procurement timing.",
+      "No confirmed owner for Agentforce operations, sales productivity, pricing strategy, AI performance measurement, or implementation-cost reduction.",
+      "News headlines indicate strategic direction but do not confirm a specific initiative, pain point, or funded project for outreach.",
+      "Competitor and market signals show external alternatives/pricing discussion, but not Salesforce's internal response or priorities."
+    ],
+    "next_actions": [
+      "Map named executives and functional owners for Sales/BD, Agentforce, Engineering/IT, pricing, and customer implementation; verify current initiatives before outreach.",
+      "Lead with a sales-productivity hypothesis tied to the hiring signal and Benioff's 'except in sales' comment; request a brief validation call with Sales/BD leadership.",
+      "Build a second thread into Engineering/IT or Agentforce operations around human-plus-agent workflows, AI performance, governance, or measurement, staying aligned to the public Agentforce positioning.",
+      "Prepare a customer-value/pricing-pressure POV using the 2026 pricing and implementation-cost market signals, then test it with product marketing, customer success, or consulting stakeholders."
+    ],
+    "signals": [
+      {
+        "category": "hiring",
+        "summary": "25 live job postings for Salesforce; departments expanding: Business Development and Sales (6), Other (6), Engineering and Information Technology (6), Consulting, Information Technology, and Sales (2), Administrative (1), Project Management and Information Technology (1)",
+        "evidence": "hiring velocity: 25 open roles. department mix: Business Development and Sales (6), Other (6), Engineering and Information Technology (6), Consulting, Information Technology, and Sales (2), Administrative (1), Project Management and Information Technology (1). seniority mix: Not Applicable (20), Entry level (5). top locations: San Francisco, CA (7), Chicago, IL (4), New York, NY (4), New York City Metropolitan Area (3). sample roles: Executive Assistant/Senior Executive Assistant; VP, Professional Services Strategy; Engagement Director \u2014 Strategic Transformation & Customer Success Leader; Human Centered Change Manager; Chief Customer Officer, Global Life Sciences; Director, Customer Success Management; Regional Vice President; Director, Customer Success Management; VP, Professional Services Strategy; Business Strategy Director; Senior Analyst, Strategy & Data; Summer 2027 Intern - Software Engineer",
+        "provenance": {
+          "source_url": "https://www.linkedin.com/jobs/search/?keywords=Salesforce",
+          "captured_at": "2026-05-30T23:01:06.038761+00:00",
+          "method": "brightdata:web_scraper:linkedin_jobs",
+          "provider": "bright_data"
+        },
+        "confidence": 0.72
+      },
+      {
+        "category": "news",
+        "summary": "8 recent news items for Salesforce: As AI slashes white-collar jobs, Salesforce CEO Marc Benioff says almost no one is being hired\u2014except in sales - Fortune",
+        "evidence": "As AI slashes white-collar jobs, Salesforce CEO Marc Benioff says almost no one is being hired\u2014except in sales - Fortune (Thu, 28 May 2026) | Salesforce billionaire CEO Marc Benioff just spent $27 billion to fight the SaaSpocalypse - Yahoo Finance (Thu, 28 May 2026) | Marc Benioff said Salesforce is still hiring in one department, and it's not in engineering - Business Insider (Thu, 28 May 2026) | Salesforce Earnings: AI Traction Looks Good; Now Waiting on Revenue Acceleration Later This Year - Morningstar (Thu, 28 May 2026) | IBM, Salesforce Share Gains Contribute To Dow's 225-Point Climb - Moomoo (Fri, 29 May 2026) | Salesforce First-Quarter Sales, Profit Rise Amid Agentforce Efforts - WSJ (Wed, 27 May 2026) | Jim Cramer was on the fence with Salesforce. Now he's ready to act - CNBC (Thu, 28 May 2026) | Dividend Roundup: Salesforce, Lowe's, McDonald's, Halliburton, and more - Seeking Alpha (Fri, 29 May 2026)",
+        "provenance": {
+          "source_url": "https://news.google.com/rss/search?q=%22Salesforce%22&hl=en-US&gl=US&ceid=US:en",
+          "captured_at": "2026-05-30T23:01:07.343126+00:00",
+          "method": "brightdata:web_unlocker:google_news_rss",
+          "provider": "bright_data"
+        },
+        "confidence": 0.55
+      },
+      {
+        "category": "funding",
+        "summary": "6 funding/investment news item(s): Salesforce Ventures, Echo Health Ventures back Optura's $17.5M series A to track AI performance - Fierce Healthcare",
+        "evidence": "Salesforce Ventures, Echo Health Ventures back Optura's $17.5M series A to track AI performance - Fierce Healthcare | Hubbl Technologies Raises $6M Series A Led by Salesforce Ventures - PR Newswire | The 12 Largest NYC Tech Startup Funding Rounds of January 2026 - AlleyWatch | The Big $1.5BN ServiceNow and Salesforce Investment in Genesys: 3 Hot Takes - CX Today | Salesforce Ventures leads $6M Series A in Hubbl Technologies - ContentGrip",
+        "provenance": {
+          "source_url": "https://news.google.com/rss/search?q=%22Salesforce%22+funding+round+investment&hl=en-US&gl=US&ceid=US:en",
+          "captured_at": "2026-05-30T23:01:08.364976+00:00",
+          "method": "brightdata:web_unlocker:google_news_rss",
+          "provider": "bright_data"
+        },
+        "confidence": 0.5
+      },
+      {
+        "category": "competitor",
+        "summary": "6 competitor/alternative sources discovered for Salesforce",
+        "evidence": "Top 12 Salesforce Alternatives and Competitors in 2026 | Salesforce Competitors: 6 Best CRM Alternatives for Sales ... | Top 5 Salesforce Alternatives & Competitors 2026 | 10 Best Salesforce Alternatives & CRM Competitors for 2026 | Top Salesforce Competitors and Alternatives in 2026",
+        "provenance": {
+          "source_url": "brightdata://discover?q=Salesforce+competitors+alternatives",
+          "captured_at": "2026-05-30T23:01:12.665101+00:00",
+          "method": "brightdata:discover_api",
+          "provider": "bright_data"
+        },
+        "confidence": 0.5
+      },
+      {
+        "category": "market",
+        "summary": "10 structured SERP results for Salesforce",
+        "evidence": "Salesforce Implementation Cost 2026: The True Price ... | The Complete Breakdown: Salesforce Pricing 2026 and ... | Salesforce Implementation Cost: 2026 Planning Guide | Salesforce Pricing Guide 2026: Complete Cost Breakdown | Salesforce Sales Cloud Pricing Breakdown 2026",
+        "provenance": {
+          "source_url": "https://www.google.com/search?q=Salesforce+news+pricing+2026",
+          "captured_at": "2026-05-30T23:01:13.994147+00:00",
+          "method": "brightdata:serp_api",
+          "provider": "bright_data"
+        },
+        "confidence": 0.5
+      },
+      {
+        "category": "pricing",
+        "summary": "Live pricing snapshot from https://salesforce.com/pricing",
+        "evidence": "Skip to content Products Back Products All Products Agentforce Back Agentforce Humans with Agents drive customer success together. Explore Agentforce How Agentforce works Why Agentforce? Agentforce Builder Agentforce Voice Agentforce Dev Tools AgentExchange Agentforce Operations Customer Stories Use Cases Agentforce Pricing Sales Back Sales Boost pipeline, win rate, and revenue with Sales Cloud. See all sales solutions Sales Force Automation Sales AI Sales Agents Sales Performance Management Partner Cloud Revenue Lifecycle Management CPQ Sales Pricing Service Back Service Cut service costs with humans AI agents on one platform. See all service solutions Customer Service Management Field Service and Operations Contact Center IT Service Service Portal Service Analytics Customer Service AI HR Service Service Pricing Marketing Back Marketing Personalize every moment of engagement across the customer lifecycle with AI agents, actionable data, and workflows. See all marketing solutions Marketing AI Email Marketing, Mobile, Advertising B2B Marketing Automation Personalization Marketing Analytics Customer Data Platform Loyalty Management Small Business Marketing Marketing Pricing Commerce Back Commerce Increase revenue and deliver consistent customer experiences across online, in-store, and mobile channels with Commerce Cloud. See all commerce solutions B2C Commerce B2B Commerce Order Management Commerce AI Payments Commerce Innovations Point of Sale Commerce Pricing Analytics Back Analytics Empower every user, in every industry to transform trusted data into actionable insights, wherever they work. Explore analytics solutions Tableau Next Tableau Semantics Tableau CRM Analytics Data Culture Analytics Pricing Slack Back Slack Bring your people, agents data, apps and Salesforce ",
+        "provenance": {
+          "source_url": "https://salesforce.com/pricing",
+          "captured_at": "2026-05-30T23:01:16.895039+00:00",
+          "method": "brightdata:web_unlocker:web_unlocker",
+          "provider": "bright_data"
+        },
+        "confidence": 0.6
+      }
+    ],
+    "confidence": 0.58,
+    "sources": [
+      {
+        "source_url": "https://www.linkedin.com/jobs/search/?keywords=Salesforce",
+        "captured_at": "2026-05-30T23:01:06.038761+00:00",
+        "method": "brightdata:web_scraper:linkedin_jobs",
+        "provider": "bright_data"
+      },
+      {
+        "source_url": "https://news.google.com/rss/search?q=%22Salesforce%22&hl=en-US&gl=US&ceid=US:en",
+        "captured_at": "2026-05-30T23:01:07.343126+00:00",
+        "method": "brightdata:web_unlocker:google_news_rss",
+        "provider": "bright_data"
+      },
+      {
+        "source_url": "https://news.google.com/rss/search?q=%22Salesforce%22+funding+round+investment&hl=en-US&gl=US&ceid=US:en",
+        "captured_at": "2026-05-30T23:01:08.364976+00:00",
+        "method": "brightdata:web_unlocker:google_news_rss",
+        "provider": "bright_data"
+      },
+      {
+        "source_url": "brightdata://discover?q=Salesforce+competitors+alternatives",
+        "captured_at": "2026-05-30T23:01:12.665101+00:00",
+        "method": "brightdata:discover_api",
+        "provider": "bright_data"
+      },
+      {
+        "source_url": "https://www.google.com/search?q=Salesforce+news+pricing+2026",
+        "captured_at": "2026-05-30T23:01:13.994147+00:00",
+        "method": "brightdata:serp_api",
+        "provider": "bright_data"
+      },
+      {
+        "source_url": "https://salesforce.com/pricing",
+        "captured_at": "2026-05-30T23:01:16.895039+00:00",
+        "method": "brightdata:web_unlocker:web_unlocker",
+        "provider": "bright_data"
+      }
+    ],
+    "generated_at": "2026-05-30T23:01:42.289395+00:00",
+    "llm_used": "azure"
+  },
+  "vercel.com": {
+    "company": "Vercel",
+    "one_liner": "Vercel is a high-growth AI Cloud and web platform account with fresh funding, active hiring, AWS ecosystem momentum, and heightened security visibility needs.",
+    "the_read": "Vercel has strong near-term growth signals: 25 live roles concentrated in Engineering, Business Development/Sales, HR, Marketing/Sales, and Design, plus funding headlines citing a $300M raise and $9.3B valuation to scale the AI Cloud. The timing is especially relevant because recent news ties Vercel to AI-native full-stack apps with AWS Databases, a Wiz security visibility announcement, and a reported supply chain attack involving user data being sold on BreachForums.",
+    "terrain": "Vercel positions around AI Cloud and full-stack web application delivery, with pricing/products surfaced for AI Gateway, Sandbox, Vercel Agent, AI SDK, CI/CD, content delivery, and Enterprise plans. Market and competitor signals show active comparison against alternatives such as Firebase, Netlify, and other Vercel alternatives, indicating a competitive deployment/platform category.",
+    "routes": [
+      "AI Cloud scale route: lead with how the solution supports rapid scaling of AI-native application infrastructure, tying to the Series F / $300M funding signal and AWS Databases AI-native app news.",
+      "Security and trust route: open around security visibility, supply-chain risk, and enterprise assurance, grounded in the Wiz security visibility item and the reported supply chain attack headline.",
+      "Engineering productivity route: target the 8 open Engineering roles and Vercel\u2019s CI/CD and full-stack app delivery positioning with a message around reducing build, deploy, or operational burden during hiring-led expansion.",
+      "GTM expansion route: engage Business Development/Sales and Marketing/Sales hiring teams with messaging around enterprise growth, competitive differentiation, and pricing/packaging intelligence in a crowded alternatives market."
+    ],
+    "who_decides": [
+      "unknown - verify; signals only show hiring expansion in Engineering, Business Development and Sales, Human Resources, Marketing and Sales, and Design",
+      "Engineering leadership - verify named owner",
+      "Business Development/Sales leadership - verify named owner",
+      "Security or platform owner - unknown - verify, inferred only as a needed stakeholder from security-related news signals"
+    ],
+    "evidence_gaps": [
+      "No named executives, budget owners, or active buying committee members are provided in the signals.",
+      "No current tech stack details beyond Vercel\u2019s own public product/pricing page and AWS/Wiz news references are confirmed.",
+      "No confirmed internal initiative, active evaluation, renewal date, or budget window is provided.",
+      "The nature, impact, and remediation status of the reported supply chain attack are not verified from the provided signals."
+    ],
+    "next_actions": [
+      "Map and verify named leaders for Engineering, Security/Platform, Business Development/Sales, and Marketing/Sales using LinkedIn and company sources.",
+      "Send a security-and-scale POV referencing the Wiz visibility item, the reported supply chain attack headline, and Vercel\u2019s AI Cloud scaling narrative.",
+      "Build a tailored account brief connecting the $300M / $9.3B funding signal, AWS AI-native app momentum, and hiring expansion to one measurable business outcome.",
+      "Prepare competitive talk tracks around Vercel alternatives, pricing comparisons, and enterprise differentiation to use with GTM and product-facing stakeholders."
+    ],
+    "signals": [
+      {
+        "category": "hiring",
+        "summary": "25 live job postings for Vercel; departments expanding: Engineering (8), Business Development and Sales (4), Human Resources (3), Sales and Business Development (3), Marketing and Sales (2), Design (2)",
+        "evidence": "hiring velocity: 25 open roles. department mix: Engineering (8), Business Development and Sales (4), Human Resources (3), Sales and Business Development (3), Marketing and Sales (2), Design (2). seniority mix: Mid-Senior level (23), Entry level (2). top locations: San Francisco, CA (11), New York, United States (8), United States (5), New York, NY (1). sample roles: Software Engineer, AI SDK; Startups Program Lead; Software Engineer, Growth; Recruiting Coordinator (Contract); Global Benefits Lead; Account Executive- Startups, Greenfield; Software Engineer, Compute; Media Engineer, Social; Software Engineer, Agent; Site Engineer; Strategic Account Executive; Senior Technical Engagement Manager",
+        "provenance": {
+          "source_url": "https://www.linkedin.com/jobs/search/?keywords=Vercel",
+          "captured_at": "2026-05-30T23:02:32.360338+00:00",
+          "method": "brightdata:web_scraper:linkedin_jobs",
+          "provider": "bright_data"
+        },
+        "confidence": 0.72
+      },
+      {
+        "category": "news",
+        "summary": "8 recent news items for Vercel: AI-native, full-stack web apps with Vercel and AWS Databases - Amazon Web Services (AWS)",
+        "evidence": "AI-native, full-stack web apps with Vercel and AWS Databases - Amazon Web Services (AWS) (Wed, 27 May 2026) | Bringing Security Visibility to Vercel with Wiz - wiz.io (Thu, 09 Apr 2026) | Supply Chain Attack Hits Vercel: User Data is Being Sold on BreachForums For $2M - OX Security (Mon, 20 Apr 2026) | AI\u2019s Relentless Boom Mints 19 New Billionaires - Bloomberg.com (Tue, 19 May 2026) | The Vercel Breach: OAuth Supply Chain Attack Exposes the Hidden Risk in Platform Environment Variables - trendaisecurity.com (Mon, 20 Apr 2026) | Vercel\u2019s Zero Wants Compilers to Talk to AI Agents - HackerNoon (Tue, 19 May 2026) | Not A Vendor, Still A Breach: Vercel\u2019s Third-Party Risk Failure - Forrester (Mon, 27 Apr 2026) | Vercel Labs Introduces Zero, a Systems Programming Language Designed So AI Agents Can Read, Repair, and Ship Native Programs - MarkTechPost (Sun, 17 May 2026)",
+        "provenance": {
+          "source_url": "https://news.google.com/rss/search?q=%22Vercel%22&hl=en-US&gl=US&ceid=US:en",
+          "captured_at": "2026-05-30T23:02:33.543159+00:00",
+          "method": "brightdata:web_unlocker:google_news_rss",
+          "provider": "bright_data"
+        },
+        "confidence": 0.55
+      },
+      {
+        "category": "funding",
+        "summary": "8 funding/investment news item(s): Vercel - 2026 Funding Rounds & List of Investors - Tracxn",
+        "evidence": "Vercel - 2026 Funding Rounds & List of Investors - Tracxn | AI coding startup Vercel raises $300 million, valued at $9.3 billion - Reuters | Report: Vercel is raising new funding at $9B valuation amid AI growth - SiliconANGLE | Vercel Closes Series F at $9.3B Valuation to Scale the AI Cloud - Business Wire | Vercel triples valuation to $9 billion with new Accel investment - Bloomberg By Investing.com - Investing.com",
+        "provenance": {
+          "source_url": "https://news.google.com/rss/search?q=%22Vercel%22+funding+round+investment&hl=en-US&gl=US&ceid=US:en",
+          "captured_at": "2026-05-30T23:02:38.525067+00:00",
+          "method": "brightdata:web_unlocker:google_news_rss",
+          "provider": "bright_data"
+        },
+        "confidence": 0.5
+      },
+      {
+        "category": "competitor",
+        "summary": "6 competitor/alternative sources discovered for Vercel",
+        "evidence": "Top Vercel Platform Alternatives & Competitors 2026 | Best Vercel alternatives in 2026 | Blog | Top 10 Vercel Alternatives & Competitors in 2026 | Best Vercel Alternatives in 2026 - Full Comparison | 8 Vercel AI Alternatives and Competitors for 2026 [Ranked]",
+        "provenance": {
+          "source_url": "brightdata://discover?q=Vercel+competitors+alternatives",
+          "captured_at": "2026-05-30T23:02:51.176479+00:00",
+          "method": "brightdata:discover_api",
+          "provider": "bright_data"
+        },
+        "confidence": 0.5
+      },
+      {
+        "category": "market",
+        "summary": "10 structured SERP results for Vercel",
+        "evidence": "Vercel Pricing: Hobby, Pro, and Enterprise plans | Pricing on Vercel | Vercel Weekly (2026-05-25) | Vercel vs Firebase (2026): Features, Pricing, and Key ... | Vercel vs Netlify: which deployment platform should you ...",
+        "provenance": {
+          "source_url": "https://www.google.com/search?q=Vercel+news+pricing+2026",
+          "captured_at": "2026-05-30T23:02:53.422404+00:00",
+          "method": "brightdata:serp_api",
+          "provider": "bright_data"
+        },
+        "confidence": 0.5
+      },
+      {
+        "category": "pricing",
+        "summary": "Live pricing snapshot from https://vercel.com/pricing",
+        "evidence": "Skip to content Products AI Cloud AI Gateway One endpoint, all your models Sandbox Isolated, safe code execution Vercel Agent An agent that knows your stack AI SDK The AI Toolkit for TypeScript v0 Build applications with AI Core Platform CI/CD Helping teams ship 6\u00d7 faster Content Delivery Fast, scalable, and reliable Fluid Compute Servers, in serverless form Workflow Long-running workflows at scale Observability Trace every step Security Bot Management Scalable bot protection BotID Invisible CAPTCHA Platform Security DDoS Protection, Firewall Web Application Firewall Granular, custom protection Resources Company Customers Trusted by the best teams Blog The latest posts and changes Changelog See what shipped Press Read the latest news Events Join us at an event Learn Docs Vercel documentation Academy Linear courses to level up Knowledge Base Find help quickly Community Join the conversation Open Source Next.js The native Next.js platform Nuxt The progressive web framework Svelte The web\u2019s efficient UI framework Turborepo Speed with Enterprise scale Solutions Use Cases AI Apps Deploy at the speed of AI Composable Commerce Power storefronts that convert Marketing Sites Launch campaigns fast Multi-tenant Platforms Scale apps with one codebase Web Apps Ship features, not infrastructure Tools Marketplace Extend and automate workflows Templates Jumpstart app development Partner Finder Get help from solution partners Users Platform Engineers Automate away repetition Design Engineers Deploy for every idea Enterprise Pricing Ask AI Ask AI Log In Sign Up Sign Up Dashboard Scale your app. Control your costs. Start free. Upgrade to Pro for $20/month. Pay only for active compute and set your own spend limits. Hobby The perfect starting place for your web app or personal project. Free",
+        "provenance": {
+          "source_url": "https://vercel.com/pricing",
+          "captured_at": "2026-05-30T23:02:55.397074+00:00",
+          "method": "brightdata:web_unlocker:web_unlocker",
+          "provider": "bright_data"
+        },
+        "confidence": 0.6
+      }
+    ],
+    "confidence": 0.58,
+    "sources": [
+      {
+        "source_url": "https://www.linkedin.com/jobs/search/?keywords=Vercel",
+        "captured_at": "2026-05-30T23:02:32.360338+00:00",
+        "method": "brightdata:web_scraper:linkedin_jobs",
+        "provider": "bright_data"
+      },
+      {
+        "source_url": "https://news.google.com/rss/search?q=%22Vercel%22&hl=en-US&gl=US&ceid=US:en",
+        "captured_at": "2026-05-30T23:02:33.543159+00:00",
+        "method": "brightdata:web_unlocker:google_news_rss",
+        "provider": "bright_data"
+      },
+      {
+        "source_url": "https://news.google.com/rss/search?q=%22Vercel%22+funding+round+investment&hl=en-US&gl=US&ceid=US:en",
+        "captured_at": "2026-05-30T23:02:38.525067+00:00",
+        "method": "brightdata:web_unlocker:google_news_rss",
+        "provider": "bright_data"
+      },
+      {
+        "source_url": "brightdata://discover?q=Vercel+competitors+alternatives",
+        "captured_at": "2026-05-30T23:02:51.176479+00:00",
+        "method": "brightdata:discover_api",
+        "provider": "bright_data"
+      },
+      {
+        "source_url": "https://www.google.com/search?q=Vercel+news+pricing+2026",
+        "captured_at": "2026-05-30T23:02:53.422404+00:00",
+        "method": "brightdata:serp_api",
+        "provider": "bright_data"
+      },
+      {
+        "source_url": "https://vercel.com/pricing",
+        "captured_at": "2026-05-30T23:02:55.397074+00:00",
+        "method": "brightdata:web_unlocker:web_unlocker",
+        "provider": "bright_data"
+      }
+    ],
+    "generated_at": "2026-05-30T23:03:17.371121+00:00",
+    "llm_used": "azure"
+  },
+  "nvidia.com": {
+    "company": "Nvidia",
+    "one_liner": "Nvidia is in a high-urgency expansion window driven by new Nvidia-powered Windows PCs, major AI infrastructure commitments, active investment activity, and 25 live hiring signals across engineering, IT, product/marketing, sales, and business functions.",
+    "the_read": "Nvidia has multiple live growth triggers: upcoming Windows PCs powered by Nvidia chips, public reporting that Jensen Huang said Nvidia will pour $150B/year into an AI hub in Taiwan, and several investment items tied to AI infrastructure and startups. The hiring mix shows execution capacity being added now, especially in Engineering and Engineering/IT, with additional Product/Marketing, Sales, and General Business roles that suggest cross-functional commercialization and scale-up needs.",
+    "terrain": "Nvidia is positioned in the signals as a chip maker and AI infrastructure leader, with activity around AI chips, GPUs, Nvidia-powered Windows PCs, global/regional pricing and partner buying channels, and investments in AI infrastructure and AI startups.",
+    "routes": [
+      "Launch-readiness angle: engage around the debut of Windows PCs powered by Nvidia chips and map needs across product, marketing, sales enablement, partner/channel execution, and customer support readiness.",
+      "AI infrastructure expansion angle: tie outreach to the reported $150B/year AI hub Taiwan commitment and photonics/AI infrastructure investment news; target teams responsible for scaling engineering, IT, infrastructure, ecosystem, and supplier coordination.",
+      "Engineering and IT capacity angle: use the 11 combined Engineering plus Engineering/Information Technology openings as evidence of active buildout; position discovery around tooling, workflow, security, infrastructure, developer productivity, or operational scale needs.",
+      "Global go-to-market/channel angle: the pricing page points users to regional NVIDIA websites and country-specific where-to-buy partners; explore needs around localization, partner operations, pricing governance, or regional commerce execution."
+    ],
+    "who_decides": [
+      "Jensen Huang - named in news as publicly discussing Nvidia's Taiwan AI hub investment; verify role in any specific buying motion.",
+      "Engineering leadership - indicated by 6 Engineering openings and 5 Engineering/Information Technology openings; exact leaders unknown - verify.",
+      "Product Management and Marketing leadership - indicated by 2 open roles; exact leaders unknown - verify.",
+      "Sales leadership - indicated by 2 open roles; exact leaders unknown - verify.",
+      "General Business / executive-level hiring stakeholders - hiring signal includes 1 Director and 1 Executive opening; exact function and names unknown - verify."
+    ],
+    "evidence_gaps": [
+      "No named budget owners, procurement contacts, or internal initiative owners are provided beyond Jensen Huang being referenced in news.",
+      "No specific pain points, technology stack, vendor landscape, renewal dates, or current solution ownership are known from the signals.",
+      "The 25 job postings are summarized but the exact role titles, locations, and business units are truncated/not provided.",
+      "Competitor/alternative sources are discovered, but the actual competitor list and Nvidia's evaluation stance are not provided.",
+      "Pricing snapshot confirms regional pricing/where-to-buy routing but does not reveal pricing strategy, partner performance, or commerce priorities."
+    ],
+    "next_actions": [
+      "Build a trigger-based outbound sequence within 24 hours referencing the Nvidia-powered Windows PC debut and ask for the owner of launch operations, partner/channel readiness, or product GTM execution.",
+      "Map current open roles by title and location from LinkedIn to identify the specific Engineering, Engineering/IT, Product/Marketing, Sales, and Executive hiring managers most likely tied to active initiatives.",
+      "Prioritize outreach to Engineering/IT leadership and Product/Marketing leadership with a discovery hypothesis tied to AI infrastructure scale and new device launch execution.",
+      "Prepare a brief account hypothesis memo linking the Taiwan AI hub, photonics/AI infrastructure investments, and AI startup funding activity to likely operational scale requirements; use it to request a focused discovery call."
+    ],
+    "signals": [
+      {
+        "category": "hiring",
+        "summary": "25 live job postings for Nvidia; departments expanding: Engineering (6), Engineering and Information Technology (5), Other (3), Product Management and Marketing (2), Sales (2), General Business (2)",
+        "evidence": "hiring velocity: 25 open roles. department mix: Engineering (6), Engineering and Information Technology (5), Other (3), Product Management and Marketing (2), Sales (2), General Business (2). seniority mix: Mid-Senior level (13), Entry level (9), Director (1), Internship (1), Executive (1). top locations: Santa Clara, CA (17), California, United States (4), New York, NY (1), Austin, TX (1). sample roles: Research Scientist, AI-Mediated Reality and Interaction Research - PhD New College Grad 2026; Senior Director, Global Commodity Management - Optics; Research Scientist, Fundamental Generative AI - New College Grad 2026; Research Scientist, AI for Graphics and Gaming - New College Grad 2026; Product Manager - Open Models; Business Development Manager, Metropolis; Applied Machine Learning Engineer, Circuit Design - New College Grad 2026; Frontend Web Software Engineer, NGC; Applied Machine Learning Engineer, Circuit Design - New College Grad 2026; Senior Financial Analyst; Global Channel GTM Lead; Software Program Manager, New Product Introduction",
+        "provenance": {
+          "source_url": "https://www.linkedin.com/jobs/search/?keywords=Nvidia",
+          "captured_at": "2026-05-30T23:03:51.214204+00:00",
+          "method": "brightdata:web_scraper:linkedin_jobs",
+          "provider": "bright_data"
+        },
+        "confidence": 0.72
+      },
+      {
+        "category": "news",
+        "summary": "8 recent news items for Nvidia: Scoop: First Windows PCs powered by Nvidia chips to debut next week - Axios",
+        "evidence": "Scoop: First Windows PCs powered by Nvidia chips to debut next week - Axios (Sat, 30 May 2026) | Jensen Huang Says Nvidia Will Pour $150 Billion A Year Into 'Booming' AI Hub Taiwan - Yahoo Finance (Sat, 30 May 2026) | Nvidia Stock: How the Chip Maker Is Trading Today - Barron's (Fri, 29 May 2026) | Nvidia is investing billions into this emerging technology that could change the AI industry - CNBC (Fri, 29 May 2026) | In China, AMD CEO Lisa Su is understated while Nvidia's Huang is more razzmatazz - Reuters (Fri, 29 May 2026) | Nvidia CFO Colette Kress: \u2018AI is no longer a nice-to-have\u2019 - Fortune (Sat, 30 May 2026) | After Nvidia\u2019s $20B not-acqui-hire, AI chip startup Groq reportedly raising $650M - TechCrunch (Fri, 29 May 2026) | AMD Ryzen 7 5800X and Nvidia RTX 5060 combo is only $439 \u2014 deal includes a free CPU cooler, totaling out to $150 in savings for a great budget setup - Tom's Hardware (Sat, 30 May 2026)",
+        "provenance": {
+          "source_url": "https://news.google.com/rss/search?q=%22Nvidia%22&hl=en-US&gl=US&ceid=US:en",
+          "captured_at": "2026-05-30T23:03:52.829844+00:00",
+          "method": "brightdata:web_unlocker:google_news_rss",
+          "provider": "bright_data"
+        },
+        "confidence": 0.55
+      },
+      {
+        "category": "funding",
+        "summary": "7 funding/investment news item(s): Nvidia backs Israeli AI unicorn Decart in $300 million funding round at $4 billion valuation - CTech",
+        "evidence": "Nvidia backs Israeli AI unicorn Decart in $300 million funding round at $4 billion valuation - CTech | Nvidia Expands Photonics Push With Billions In New AI Infrastructure Investments - International Business Times | Exclusive | Startup Makes Switching AI Chips Easier\u2014and Nvidia Is a New Investor - WSJ | Nvidia close to investing $30 billion in OpenAI's mega funding round, source says - Reuters | OpenAI's $110 billion funding round draws investment from Amazon, Nvidia, SoftBank - Yahoo Finance",
+        "provenance": {
+          "source_url": "https://news.google.com/rss/search?q=%22Nvidia%22+funding+round+investment&hl=en-US&gl=US&ceid=US:en",
+          "captured_at": "2026-05-30T23:03:54.108113+00:00",
+          "method": "brightdata:web_unlocker:google_news_rss",
+          "provider": "bright_data"
+        },
+        "confidence": 0.5
+      },
+      {
+        "category": "competitor",
+        "summary": "6 competitor/alternative sources discovered for Nvidia",
+        "evidence": "Top Competitors and Alternatives of NVIDIA | NVIDIA Competitors & Alternatives (2026) | Competitors and Alternatives to NVIDIA | NVIDIA Competitors and Alternatives | Nvidia Competitors: Who Are the AI Chip Alternatives?",
+        "provenance": {
+          "source_url": "brightdata://discover?q=Nvidia+competitors+alternatives",
+          "captured_at": "2026-05-30T23:03:58.417942+00:00",
+          "method": "brightdata:discover_api",
+          "provider": "bright_data"
+        },
+        "confidence": 0.5
+      },
+      {
+        "category": "market",
+        "summary": "8 structured SERP results for Nvidia",
+        "evidence": "Prediction: This Will Be Nvidia's Stock Price at the End of ... | What will Nvidia Corp stock token price be at the end of ... | Leaks Predict $5000 RTX 5090 GPUs in 2026 Thanks to AI ... | nvidia stock price 2026 forecast: Wall Street sees 45% ... | AMD and Nvidia will reportedly raise GPU prices \" ...",
+        "provenance": {
+          "source_url": "https://www.google.com/search?q=Nvidia+news+pricing+2026",
+          "captured_at": "2026-05-30T23:04:02.264228+00:00",
+          "method": "brightdata:serp_api",
+          "provider": "bright_data"
+        },
+        "confidence": 0.5
+      },
+      {
+        "category": "pricing",
+        "summary": "Live pricing snapshot from https://nvidia.com/pricing",
+        "evidence": "Visit your regional NVIDIA website for local content, pricing, and where to buy partners specific to your country. Argentina Australia Belgi\u00eb (Belgium) Belgique (Belgium) Brasil (Brazil) Canada \u010cesk\u00e1 Republika (Czech Republic) Chile Colombia Danmark (Denmark) Deutschland (Germany) Espa\u00f1a (Spain) France India Italia (Italy) M\u00e9xico (Mexico) Middle East Nederland (Netherlands) Norge (Norway) \u00d6sterreich (Austria) Peru Polska (Poland) Rest of Europe Rom\u00e2nia (Romania) Singapore Suomi (Finland) Sverige (Sweden) T\u00fcrkiye (Turkey) United Kingdom United States \ub300\ud55c\ubbfc\uad6d (South Korea) \u4e2d\u56fd\u5927\u9646 (Mainland China) \u53f0\u7063 (Taiwan) \u65e5\u672c (Japan) Continue Skip to main content Main Menu Products Cloud Services Creating Data Center Embedded Systems Gaming Graphics Cards and GPUs Laptops and Desktops Networking Professional Workstations Software Tools Cloud Services BioNeMo AI-driven platform for life sciences research and discovery DGX Cloud NVIDIA\u2019s AI factory in the cloud NVIDIA APIs Explore, test, and deploy AI models and agents Private Registry Guide for using NVIDIA NGC private registry with GPU cloud NVIDIA NGC Accelerated, containerized AI models and SDKs Creating NVIDIA Studio High performance GeForce RTX PCs, purpose-built for creators NVIDIA Broadcast App AI-enhanced voice and video for next-level streams, videos, and calls NVIDIA App and Studio Drivers Optimize gaming, streaming, and AI-powered creativity RTX AI PCs AI PCs for gaming, creating, productivity and development RTX Remix Create RTX remasters of classic games with open-source AI Project G-Assist AI assistant to optimize and control your GeForce RTX PC Data Center Overview Modernizing data centers with AI and accelerated computing DGX Platform Enterprise AI factory for model development and deployment Grace CPU Architecture for data ce",
+        "provenance": {
+          "source_url": "https://nvidia.com/pricing",
+          "captured_at": "2026-05-30T23:04:07.280966+00:00",
+          "method": "brightdata:web_unlocker:web_unlocker",
+          "provider": "bright_data"
+        },
+        "confidence": 0.6
+      }
+    ],
+    "confidence": 0.58,
+    "sources": [
+      {
+        "source_url": "https://www.linkedin.com/jobs/search/?keywords=Nvidia",
+        "captured_at": "2026-05-30T23:03:51.214204+00:00",
+        "method": "brightdata:web_scraper:linkedin_jobs",
+        "provider": "bright_data"
+      },
+      {
+        "source_url": "https://news.google.com/rss/search?q=%22Nvidia%22&hl=en-US&gl=US&ceid=US:en",
+        "captured_at": "2026-05-30T23:03:52.829844+00:00",
+        "method": "brightdata:web_unlocker:google_news_rss",
+        "provider": "bright_data"
+      },
+      {
+        "source_url": "https://news.google.com/rss/search?q=%22Nvidia%22+funding+round+investment&hl=en-US&gl=US&ceid=US:en",
+        "captured_at": "2026-05-30T23:03:54.108113+00:00",
+        "method": "brightdata:web_unlocker:google_news_rss",
+        "provider": "bright_data"
+      },
+      {
+        "source_url": "brightdata://discover?q=Nvidia+competitors+alternatives",
+        "captured_at": "2026-05-30T23:03:58.417942+00:00",
+        "method": "brightdata:discover_api",
+        "provider": "bright_data"
+      },
+      {
+        "source_url": "https://www.google.com/search?q=Nvidia+news+pricing+2026",
+        "captured_at": "2026-05-30T23:04:02.264228+00:00",
+        "method": "brightdata:serp_api",
+        "provider": "bright_data"
+      },
+      {
+        "source_url": "https://nvidia.com/pricing",
+        "captured_at": "2026-05-30T23:04:07.280966+00:00",
+        "method": "brightdata:web_unlocker:web_unlocker",
+        "provider": "bright_data"
+      }
+    ],
+    "generated_at": "2026-05-30T23:04:31.108477+00:00",
+    "llm_used": "azure"
+  }
+}

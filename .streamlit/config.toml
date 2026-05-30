@@ -1,0 +1,14 @@
+# Markster brand theme (markster.ai/brand-kit): dark hero + green accents.
+[theme]
+base = "dark"
+primaryColor = "#00CC44"
+backgroundColor = "#0a0a0a"
+secondaryBackgroundColor = "#121417"
+textColor = "#e8e8ea"
+font = "sans serif"
+
+[server]
+headless = true
+
+[browser]
+gatherUsageStats = false

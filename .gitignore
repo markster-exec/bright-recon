@@ -1,0 +1,14 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.env
+.env.local
+.recon_memory.json
+*.log
+.DS_Store
+.streamlit/secrets.toml
+dist/
+build/
+*.egg-info/
+.pytest_cache/

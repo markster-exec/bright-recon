@@ -1,0 +1,38 @@
+# Agent/code tasks for brightdata-gtm-agent. Read on startup, update as you work.
+repo: brightdata-gtm-agent
+event: web-data-unlocked-hackathon
+track: gtm-intelligence
+deadline: 2026-05-30T17:00:00-07:00
+
+tasks:
+  - id: scaffold
+    title: Scaffold Bright-Data-ready GTM agent repo
+    status: done
+  - id: credits
+    title: Redeem Bright Data $250 credits (promo 'unlocked'), create SERP + Web Unlocker zones
+    status: todo
+  - id: env-smoketest
+    title: Fill .env and smoke-test CLI against a real company
+    status: todo
+  - id: concept
+    title: Lock the concept / differentiator beyond the generic skeleton
+    status: todo
+  - id: demo-assets
+    title: Record demo video + build slides + cover image
+    status: todo
+  - id: submit
+    title: Submit on lablab.ai (repo URL, demo URL, video, slides)
+    status: todo
+  - id: hubspot-crm-setup
+    title: Prepare HubSpot CRM demo dataset (17 targets + sponsors, lists, pipeline, gtm_* props)
+    status: done
+    notes: See docs/hubspot-crm-setup.md. Portal 145596685.
+  - id: hubspot-buyer-intent
+    title: Enable Buyer Intent in HubSpot UI (Marketing > Buyer Intent; needs tracking code + permission)
+    status: todo
+  - id: hubspot-agent-push
+    title: Run agent against the 17 (and sponsors) and populate gtm_* properties (needs BRIGHTDATA_API_TOKEN)
+    status: todo
+  - id: hubspot-sponsors
+    title: Add remaining event sponsors to HubSpot (full list TBD; aimlapi.com candidate)
+    status: todo
